@@ -29,7 +29,7 @@ public class Sort {
 		System.out.println("\nStrings sorting:");
 		String [] sArr = {"sugar","apple","milk","coffe","water","bread"};
 		OddEven <String> stringOddEven = new OddEven(sArr);
-		doubleOddEven.printArray();
+		stringOddEven.printArray();
 		System.out.println();
 		stringOddEven.sort();
 		stringOddEven.printArray();

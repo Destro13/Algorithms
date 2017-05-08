@@ -38,7 +38,11 @@ public class  OddEven <T extends Comparable<T>> {
 		array[j] = tmp;
 		
 	}
-
+	
+  	public  T[] getArray(){ 
+  		return array;
+  	}
+  	
 	public	void printArray(){
 		for(T i : array){
 			System.out.print( i + "\t");
