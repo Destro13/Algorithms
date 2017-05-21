@@ -7,3 +7,7 @@
 Теорія розподілених систем і паралельних обчислень
   - Bubble Sort
   - Odd-Even Sort
+Алгоритми і структури даних
+  - Insertion Sort
+  - InsertionRecursive Sort
+  - Merge Sort
