@@ -1,8 +1,5 @@
 import java.util.List;
 
-/**
- * Created by pavlyknazariy on 17.06.17.
- */
 public class QuickSort<T extends Comparable<T>>  {
     private T [] array;
 
@@ -61,5 +58,4 @@ public class QuickSort<T extends Comparable<T>>  {
             System.out.print( i + "\t");
         }
     }
-
 }

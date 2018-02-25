@@ -11,6 +11,8 @@
   - Insertion Sort
   - InsertionRecursive Sort
   - Merge Sort
+Алгоритми і структури даних
+  - Quick Sort
 Структури та алгоритми обробки даних
   - Tree Sort
   - Tournament Sort
