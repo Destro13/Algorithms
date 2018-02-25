@@ -16,3 +16,7 @@
 Структури та алгоритми обробки даних
   - Tree Sort
   - Tournament Sort
+Основи алгоритмізації і програмування
+  - Bubble Sort
+  - Quick Sort
+  - Counting Sort
